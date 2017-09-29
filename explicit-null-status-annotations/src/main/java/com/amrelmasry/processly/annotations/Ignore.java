@@ -6,9 +6,8 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * Created by Amr Elmasry on 17/09/17.
+ * Skip the annotated target while doing the explicit-null-status-check
  */
-
 @Retention(RetentionPolicy.SOURCE)
 @Target({ElementType.FIELD,
         ElementType.METHOD,
