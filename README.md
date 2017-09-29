@@ -73,5 +73,8 @@ dependencies {
     }   
 ```
 
+# Supported Annotations 
+
+- check [here](https://github.com/AmrElmasry/Explicit-Null-Status/blob/master/explicit-null-status-compiler/src/main/java/com/amrelmasry/processorly/SupportedAnnotations.java) to show the full list
 
 
